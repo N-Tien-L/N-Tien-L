@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student @ PTIT · Backend-focused · Exploring LLM applications</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tien-lam-946a69371/">
+  <a href="https://www.linkedin.com/in/lamnhattien/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tienlamnhatt@gmail.com">
